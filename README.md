@@ -75,3 +75,10 @@ Crafted an engaging and dynamic dashboard tailored for coffee sales analysis. Th
 ### Top Products
 •	Barista Espresso emerges as the best-selling product, reflecting a strong demand for coffee among customers followed by Brewed Chai Tea ranks as the second-highest selling product.
 
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+## Author
+- <ins><b>©2023 Sujit Roy. All rights reserved</b></ins>
+- <b>[LinkedIn](https://www.linkedin.com/in/sujit-roy-399014229/)</b>
+
